@@ -1,0 +1,10 @@
+{
+  "name": "ACNH 3pm sunny music",
+  "description": "ACNH 3pm sunny music for your deck :D",
+  "author": "0Nerd",
+  "version": "v1.0.0",
+  "manifest_version": 2,
+  "music": true,
+  "ignore": [],
+  "mappings": {}
+}
